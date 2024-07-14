@@ -7,5 +7,5 @@ xhofe/alist:latest
 elasticsearch:7.14.0
 apache/skywalking-oap-server:9.7.0
 apache/skywalking-ui:9.7.0
-node
+node:22-alpine
 eclipse-temurin:21-jre
