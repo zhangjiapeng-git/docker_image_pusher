@@ -9,3 +9,5 @@ apache/skywalking-oap-server:9.7.0
 apache/skywalking-ui:9.7.0
 node:22-alpine
 eclipse-temurin:21-jre
+grafana/loki:3.0.0
+grafana/promtail:3.0.0
