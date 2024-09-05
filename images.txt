@@ -11,3 +11,4 @@ node:22-alpine
 eclipse-temurin:21-jre
 grafana/loki:3.0.0
 grafana/promtail:3.0.0
+maven:3.9.6-eclipse-temurin-8
