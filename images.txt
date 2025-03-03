@@ -1,15 +1,1 @@
-nginx
-#支持私库
-k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
-xhofe/alist:latest
-#支持指定架构
---platform=linux/arm64 xiaoyaliu/alist
-elasticsearch:7.14.0
-apache/skywalking-oap-server:9.7.0
-apache/skywalking-ui:9.7.0
-node:22-alpine
-eclipse-temurin:21-jre
-grafana/loki:3.0.0
-grafana/promtail:3.0.0
-nacos/nacos-server:2.2.4
 cucker/get_command_4_run_container:latest
