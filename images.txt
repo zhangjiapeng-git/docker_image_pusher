@@ -12,3 +12,4 @@ eclipse-temurin:21-jre
 grafana/loki:3.0.0
 grafana/promtail:3.0.0
 nacos/nacos-server:2.2.4
+cucker/get_command_4_run_container:latest
