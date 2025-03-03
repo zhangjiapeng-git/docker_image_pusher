@@ -1,1 +1,1 @@
-cucker/get_command_4_run_container:latest
+xuxueli/xxl-job-admin:2.4.1
