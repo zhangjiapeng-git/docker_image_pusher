@@ -1,1 +1,2 @@
 nacos/nacos-server:2.4.3
+node:24-alpine3.21
